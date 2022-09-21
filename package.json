@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "bull": "^4.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
